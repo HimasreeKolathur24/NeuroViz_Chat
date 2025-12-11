@@ -1,0 +1,5 @@
+{
+  "name": "NeuroViz Chat",
+  "description": "A futuristic chatbot that visualizes its reasoning process in 3D using Gemini and Three.js.",
+  "requestFramePermissions": []
+}
